@@ -1,0 +1,218 @@
+
+Sun Jan 28 2018 22:20:27 GMT-0800 (PST): undefined
+Sun Jan 28 2018 22:20:43 GMT-0800 (PST): undefined
+Sun Jan 28 2018 22:21:46 GMT-0800 (PST): Category choosed by user : animals
+Sun Jan 28 2018 22:22:55 GMT-0800 (PST): Category choosen by user : movies
+Sun Jan 28 2018 22:24:35 GMT-0800 (PST): Category choosen by user : animals
+Sun Jan 28 2018 22:24:35 GMT-0800 (PST): Random Word is Dinosaur
+Sun Jan 28 2018 22:32:08 GMT-0800 (PST): Category choosen by user : movies
+Sun Jan 28 2018 22:32:08 GMT-0800 (PST): Random Word is : Home Alone
+Sun Jan 28 2018 22:35:57 GMT-0800 (PST): Category choosen by user : movies
+Sun Jan 28 2018 22:35:57 GMT-0800 (PST): Random Word is : Polar Express
+Sun Jan 28 2018 22:52:45 GMT-0800 (PST): Category choosen by user : movies
+Sun Jan 28 2018 22:52:45 GMT-0800 (PST): Random Word is : Home Alone
+Sun Jan 28 2018 22:52:51 GMT-0800 (PST): Letter Guessed : [object Object]
+Sun Jan 28 2018 22:53:42 GMT-0800 (PST): Category choosen by user : movies
+Sun Jan 28 2018 22:53:42 GMT-0800 (PST): Random Word is : Finding Nemo
+Sun Jan 28 2018 22:53:45 GMT-0800 (PST): Letter Guessed : [object Object]
+Sun Jan 28 2018 22:54:16 GMT-0800 (PST): Category choosen by user : movies
+Sun Jan 28 2018 22:54:16 GMT-0800 (PST): Random Word is : Polar Express
+Sun Jan 28 2018 22:54:19 GMT-0800 (PST): Letter Guessed : r
+Sun Jan 28 2018 22:54:25 GMT-0800 (PST): Letter Guessed : o
+Sun Jan 28 2018 23:02:45 GMT-0800 (PST): Letter Guessed : d
+Sun Jan 28 2018 23:05:21 GMT-0800 (PST): Category choosen by user : movies
+Sun Jan 28 2018 23:05:21 GMT-0800 (PST): Random Word is : Polar Express
+Sun Jan 28 2018 23:05:24 GMT-0800 (PST): Letter Guessed : s
+Sun Jan 28 2018 23:05:26 GMT-0800 (PST): Letter Guessed : d
+Sun Jan 28 2018 23:05:28 GMT-0800 (PST): Letter Guessed : f
+Sun Jan 28 2018 23:05:30 GMT-0800 (PST): Letter Guessed : f
+Sun Jan 28 2018 23:05:31 GMT-0800 (PST): Letter Guessed : g
+Sun Jan 28 2018 23:05:32 GMT-0800 (PST): Letter Guessed : h
+Sun Jan 28 2018 23:05:33 GMT-0800 (PST): Letter Guessed : j
+Sun Jan 28 2018 23:05:34 GMT-0800 (PST): Letter Guessed : k
+Sun Jan 28 2018 23:05:35 GMT-0800 (PST): Letter Guessed : l
+Sun Jan 28 2018 23:10:33 GMT-0800 (PST): Category choosen by user : movies
+Sun Jan 28 2018 23:10:33 GMT-0800 (PST): Random Word is : Polar Express
+Sun Jan 28 2018 23:10:36 GMT-0800 (PST): Letter Guessed : p
+Sun Jan 28 2018 23:10:39 GMT-0800 (PST): Letter Guessed : l
+Sun Jan 28 2018 23:10:41 GMT-0800 (PST): Letter Guessed : k
+Sun Jan 28 2018 23:10:50 GMT-0800 (PST): Letter Guessed : i
+Sun Jan 28 2018 23:10:53 GMT-0800 (PST): Letter Guessed : u
+Sun Jan 28 2018 23:10:58 GMT-0800 (PST): Letter Guessed : u
+Sun Jan 28 2018 23:11:01 GMT-0800 (PST): Letter Guessed : d
+Sun Jan 28 2018 23:11:03 GMT-0800 (PST): Letter Guessed : d
+Sun Jan 28 2018 23:12:13 GMT-0800 (PST): Category choosen by user : movies
+Sun Jan 28 2018 23:12:13 GMT-0800 (PST): Random Word is : Zootopia
+Sun Jan 28 2018 23:12:16 GMT-0800 (PST): Letter Guessed : s
+Sun Jan 28 2018 23:12:17 GMT-0800 (PST): Letter Guessed : d
+Sun Jan 28 2018 23:12:18 GMT-0800 (PST): Letter Guessed : f
+Sun Jan 28 2018 23:12:20 GMT-0800 (PST): Letter Guessed : g
+Sun Jan 28 2018 23:12:21 GMT-0800 (PST): Letter Guessed : h
+Sun Jan 28 2018 23:12:22 GMT-0800 (PST): Letter Guessed : j
+Sun Jan 28 2018 23:12:41 GMT-0800 (PST): Letter Guessed : d
+Sun Jan 28 2018 23:13:02 GMT-0800 (PST): Category choosen by user : animals
+Sun Jan 28 2018 23:13:02 GMT-0800 (PST): Random Word is : Squirrel
+Sun Jan 28 2018 23:13:06 GMT-0800 (PST): Letter Guessed : a
+Sun Jan 28 2018 23:13:08 GMT-0800 (PST): Letter Guessed : s
+Sun Jan 28 2018 23:13:11 GMT-0800 (PST): Letter Guessed : d
+Sun Jan 28 2018 23:13:19 GMT-0800 (PST): Letter Guessed : g
+Sun Jan 28 2018 23:13:21 GMT-0800 (PST): Letter Guessed : i
+Sun Jan 28 2018 23:13:24 GMT-0800 (PST): Letter Guessed : r
+Sun Jan 28 2018 23:13:28 GMT-0800 (PST): Letter Guessed : t
+Sun Jan 28 2018 23:13:33 GMT-0800 (PST): Letter Guessed : y
+Sun Jan 28 2018 23:13:38 GMT-0800 (PST): Letter Guessed : h
+Sun Jan 28 2018 23:22:36 GMT-0800 (PST): Category choosen by user : movies
+Sun Jan 28 2018 23:22:36 GMT-0800 (PST): Random Word is : Harry Potter
+Sun Jan 28 2018 23:22:38 GMT-0800 (PST): Letter Guessed : s
+Sun Jan 28 2018 23:22:45 GMT-0800 (PST): Letter Guessed : a
+Sun Jan 28 2018 23:40:16 GMT-0800 (PST): Category choosen by user : movies
+Sun Jan 28 2018 23:40:16 GMT-0800 (PST): Random Word is : Zootopia
+Sun Jan 28 2018 23:40:23 GMT-0800 (PST): Letter Guessed : z
+Sun Jan 28 2018 23:40:32 GMT-0800 (PST): Letter Guessed : Z
+Sun Jan 28 2018 23:40:37 GMT-0800 (PST): Letter Guessed : x
+Sun Jan 28 2018 23:40:39 GMT-0800 (PST): Letter Guessed : c
+Tue Jan 30 2018 17:49:08 GMT-0800 (PST): Category choosen by user : animals
+Tue Jan 30 2018 17:49:08 GMT-0800 (PST): Random Word is : Leopard
+Tue Jan 30 2018 17:49:18 GMT-0800 (PST): Letter Guessed : l
+Tue Jan 30 2018 17:49:24 GMT-0800 (PST): Letter Guessed : s
+Tue Jan 30 2018 17:49:32 GMT-0800 (PST): Letter Guessed : e
+Tue Jan 30 2018 17:49:36 GMT-0800 (PST): Letter Guessed : d
+Tue Jan 30 2018 17:49:41 GMT-0800 (PST): Letter Guessed : z
+Tue Jan 30 2018 17:50:07 GMT-0800 (PST): Letter Guessed : s
+Tue Jan 30 2018 17:50:08 GMT-0800 (PST): Letter Guessed : s
+Tue Jan 30 2018 17:50:11 GMT-0800 (PST): Letter Guessed : s
+Tue Jan 30 2018 17:50:41 GMT-0800 (PST): Category choosen by user : animals
+Tue Jan 30 2018 17:50:41 GMT-0800 (PST): Random Word is : Mouse
+Tue Jan 30 2018 17:50:49 GMT-0800 (PST): Letter Guessed : m
+Tue Jan 30 2018 17:50:54 GMT-0800 (PST): Letter Guessed : a
+Tue Jan 30 2018 17:51:23 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 17:51:23 GMT-0800 (PST): Random Word is : Finding Nemo
+Tue Jan 30 2018 17:51:26 GMT-0800 (PST): Letter Guessed : f
+Tue Jan 30 2018 17:54:38 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 17:54:38 GMT-0800 (PST): Random Word is : harry Potter
+Tue Jan 30 2018 17:54:41 GMT-0800 (PST): Letter Guessed : H
+Tue Jan 30 2018 17:54:49 GMT-0800 (PST): Letter Guessed : Y
+Tue Jan 30 2018 17:56:11 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 17:56:11 GMT-0800 (PST): Random Word is : finding nemo
+Tue Jan 30 2018 17:56:13 GMT-0800 (PST): Letter Guessed : f
+Tue Jan 30 2018 17:56:16 GMT-0800 (PST): Letter Guessed : i
+Tue Jan 30 2018 17:56:19 GMT-0800 (PST): Letter Guessed : f
+Tue Jan 30 2018 18:13:48 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 18:13:48 GMT-0800 (PST): Random Word is : zootopia
+Tue Jan 30 2018 18:14:20 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 18:14:20 GMT-0800 (PST): Random Word is : home alone
+Tue Jan 30 2018 18:14:22 GMT-0800 (PST): Letter Guessed : a
+Tue Jan 30 2018 18:14:53 GMT-0800 (PST): Letter Guessed : s
+Tue Jan 30 2018 18:14:56 GMT-0800 (PST): Letter Guessed : a
+Tue Jan 30 2018 18:15:45 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 18:15:45 GMT-0800 (PST): Random Word is : polar express
+Tue Jan 30 2018 18:15:47 GMT-0800 (PST): Letter Guessed : a
+Tue Jan 30 2018 18:17:26 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 18:17:26 GMT-0800 (PST): Random Word is : zootopia
+Tue Jan 30 2018 18:17:28 GMT-0800 (PST): Letter Guessed : s
+Tue Jan 30 2018 18:18:32 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 18:18:32 GMT-0800 (PST): Random Word is : home alone
+Tue Jan 30 2018 18:18:33 GMT-0800 (PST): Letter Guessed : a
+Tue Jan 30 2018 18:19:46 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 18:19:46 GMT-0800 (PST): Random Word is : home alone
+Tue Jan 30 2018 18:19:47 GMT-0800 (PST): Letter Guessed : a
+Tue Jan 30 2018 18:20:49 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 18:20:49 GMT-0800 (PST): Random Word is : polar express
+Tue Jan 30 2018 18:20:51 GMT-0800 (PST): Letter Guessed : s
+Tue Jan 30 2018 18:21:27 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 18:21:27 GMT-0800 (PST): Random Word is : zootopia
+Tue Jan 30 2018 18:21:29 GMT-0800 (PST): Letter Guessed : l
+Tue Jan 30 2018 21:46:31 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 21:46:31 GMT-0800 (PST): Random Word is : polar express
+Tue Jan 30 2018 21:46:42 GMT-0800 (PST): Letter Guessed : l
+Tue Jan 30 2018 21:47:29 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 21:47:29 GMT-0800 (PST): Random Word is : harry Potter
+Tue Jan 30 2018 21:47:33 GMT-0800 (PST): Letter Guessed : l
+Tue Jan 30 2018 21:49:35 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 21:49:35 GMT-0800 (PST): Random Word is : harry Potter
+Tue Jan 30 2018 21:49:38 GMT-0800 (PST): Letter Guessed : l
+Tue Jan 30 2018 21:49:47 GMT-0800 (PST): Letter Guessed : l
+Tue Jan 30 2018 21:50:29 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 21:50:29 GMT-0800 (PST): Random Word is : home alone
+Tue Jan 30 2018 21:50:32 GMT-0800 (PST): Letter Guessed : a
+Tue Jan 30 2018 21:52:44 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 21:52:44 GMT-0800 (PST): Random Word is : polar express
+Tue Jan 30 2018 21:53:05 GMT-0800 (PST): Letter Guessed : a
+Tue Jan 30 2018 21:54:17 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 21:54:17 GMT-0800 (PST): Random Word is : home alone
+Tue Jan 30 2018 21:54:22 GMT-0800 (PST): Letter Guessed : l
+Tue Jan 30 2018 21:55:23 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 21:55:23 GMT-0800 (PST): Random Word is : home alone
+Tue Jan 30 2018 21:55:32 GMT-0800 (PST): Letter Guessed : l
+Tue Jan 30 2018 21:55:59 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 21:55:59 GMT-0800 (PST): Random Word is : zootopia
+Tue Jan 30 2018 21:56:03 GMT-0800 (PST): Letter Guessed : l
+Tue Jan 30 2018 22:08:59 GMT-0800 (PST): Letter Guessed : a
+Tue Jan 30 2018 22:10:26 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 22:10:26 GMT-0800 (PST): Random Word is : zootopia
+Tue Jan 30 2018 22:10:34 GMT-0800 (PST): Letter Guessed : o
+Tue Jan 30 2018 22:11:52 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 22:11:52 GMT-0800 (PST): Random Word is : zootopia
+Tue Jan 30 2018 22:11:57 GMT-0800 (PST): Letter Guessed : o
+Tue Jan 30 2018 22:11:58 GMT-0800 (PST): Letter Guessed : o
+Tue Jan 30 2018 22:11:59 GMT-0800 (PST): Letter Guessed : o
+Tue Jan 30 2018 22:11:59 GMT-0800 (PST): Letter Guessed : o
+Tue Jan 30 2018 22:12:00 GMT-0800 (PST): Letter Guessed : o
+Tue Jan 30 2018 22:12:01 GMT-0800 (PST): Letter Guessed : o
+Tue Jan 30 2018 22:12:02 GMT-0800 (PST): Letter Guessed : y
+Tue Jan 30 2018 22:12:03 GMT-0800 (PST): Letter Guessed : y
+Tue Jan 30 2018 22:12:04 GMT-0800 (PST): Letter Guessed : y
+Tue Jan 30 2018 22:12:04 GMT-0800 (PST): Letter Guessed : y
+Tue Jan 30 2018 22:12:05 GMT-0800 (PST): Letter Guessed : y
+Tue Jan 30 2018 22:12:20 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 22:12:20 GMT-0800 (PST): Random Word is : home alone
+Tue Jan 30 2018 22:12:23 GMT-0800 (PST): Letter Guessed : t
+Tue Jan 30 2018 22:12:24 GMT-0800 (PST): Letter Guessed : t
+Tue Jan 30 2018 22:12:25 GMT-0800 (PST): Letter Guessed : t
+Tue Jan 30 2018 22:12:26 GMT-0800 (PST): Letter Guessed : t
+Tue Jan 30 2018 22:12:26 GMT-0800 (PST): Letter Guessed : t
+Tue Jan 30 2018 22:12:28 GMT-0800 (PST): Letter Guessed : t
+Tue Jan 30 2018 22:19:52 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 22:19:52 GMT-0800 (PST): Random Word is : harry Potter
+Tue Jan 30 2018 22:19:57 GMT-0800 (PST): Letter Guessed : h
+Tue Jan 30 2018 22:20:20 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 22:20:20 GMT-0800 (PST): Random Word is : home alone
+Tue Jan 30 2018 22:20:22 GMT-0800 (PST): Letter Guessed : a
+Tue Jan 30 2018 22:21:26 GMT-0800 (PST): Letter Guessed : a
+Tue Jan 30 2018 22:21:33 GMT-0800 (PST): Letter Guessed : o
+Tue Jan 30 2018 22:21:39 GMT-0800 (PST): Letter Guessed : m
+Tue Jan 30 2018 22:21:42 GMT-0800 (PST): Letter Guessed : a
+Tue Jan 30 2018 22:43:58 GMT-0800 (PST): Category choosen by user : animals
+Tue Jan 30 2018 22:43:58 GMT-0800 (PST): Random Word is : squirrel
+Tue Jan 30 2018 23:00:27 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 23:00:27 GMT-0800 (PST): Random Word is : harry Potter
+Tue Jan 30 2018 23:01:44 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 23:01:44 GMT-0800 (PST): Random Word is : harry Potter
+Tue Jan 30 2018 23:03:46 GMT-0800 (PST): Category choosen by user : animals
+Tue Jan 30 2018 23:03:46 GMT-0800 (PST): Random Word is : leopard
+Tue Jan 30 2018 23:05:24 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 23:05:24 GMT-0800 (PST): Random Word is : harry Potter
+Tue Jan 30 2018 23:06:43 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 23:06:43 GMT-0800 (PST): Random Word is : home alone
+Tue Jan 30 2018 23:06:59 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 23:06:59 GMT-0800 (PST): Random Word is : polar express
+Tue Jan 30 2018 23:07:53 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 23:07:53 GMT-0800 (PST): Random Word is : finding nemo
+Tue Jan 30 2018 23:10:17 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 23:10:17 GMT-0800 (PST): Random Word is : zootopia
+Tue Jan 30 2018 23:13:29 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 23:13:29 GMT-0800 (PST): Random Word is : harry Potter
+Tue Jan 30 2018 23:15:49 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 23:15:49 GMT-0800 (PST): Random Word is : polar express
+Tue Jan 30 2018 23:16:23 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 23:16:23 GMT-0800 (PST): Random Word is : polar express
+Tue Jan 30 2018 23:17:47 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 23:17:47 GMT-0800 (PST): Random Word is : zootopia
+Tue Jan 30 2018 23:18:35 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 23:18:35 GMT-0800 (PST): Random Word is : polar express
+Tue Jan 30 2018 23:19:08 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 23:19:08 GMT-0800 (PST): Random Word is : finding nemo
+Tue Jan 30 2018 23:20:42 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 23:20:42 GMT-0800 (PST): Random Word is : polar express
+Tue Jan 30 2018 23:21:21 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 23:21:21 GMT-0800 (PST): Random Word is : harry Potter
