@@ -17,10 +17,10 @@ var word = function(category) {
     this.guessWordCharArr = function(guessWord) {
         return guessWord.split('');
     };
-    this.guessWordCharArrUser = function(arr) {
+    this.guessWordCharArrUser = function(arr, validLetter) {
         var wordArr = [];
         for (i=0; i<arr.length;i++) {
-            if (arr[i] == ' ') {
+            if (arr[i] == ' ' || arr[i] == validLetter) {
                 wordArr[i] = arr[i];
             } else {
                 wordArr[i] = '_';
@@ -28,12 +28,20 @@ var word = function(category) {
         }
         return wordArr;
     };
+    this.guessWordCharArrUserAfter = function(arr, arrUser, validLetter) {
+        for (i=0; i<arr.length;i++) {
+            if (arr[i] == validLetter) {
+                arrUser[i] = arr[i];
+            }
+        }
+        return arrUser;
+    };
     this.wordArrStrOutput = function (arr) {
         var str = "";
         for (i=0; i<arr.length;i++) {
             str = str + ' ' + arr[i];
         }
-        return str;
+        return str+'\n';
     }
     this.guesscategories = function(){
         return Object.keys(guesswords);

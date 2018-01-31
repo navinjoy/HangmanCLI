@@ -216,3 +216,384 @@ Tue Jan 30 2018 23:20:42 GMT-0800 (PST): Category choosen by user : movies
 Tue Jan 30 2018 23:20:42 GMT-0800 (PST): Random Word is : polar express
 Tue Jan 30 2018 23:21:21 GMT-0800 (PST): Category choosen by user : movies
 Tue Jan 30 2018 23:21:21 GMT-0800 (PST): Random Word is : harry Potter
+Tue Jan 30 2018 23:31:15 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 23:31:15 GMT-0800 (PST): Random Word is : polar express
+Tue Jan 30 2018 23:31:25 GMT-0800 (PST): Letter Guessed : a
+Tue Jan 30 2018 23:31:31 GMT-0800 (PST): Letter Guessed : a
+Tue Jan 30 2018 23:31:32 GMT-0800 (PST): Letter Guessed : s
+Tue Jan 30 2018 23:31:33 GMT-0800 (PST): Letter Guessed : d
+Tue Jan 30 2018 23:31:35 GMT-0800 (PST): Letter Guessed : d
+Tue Jan 30 2018 23:31:35 GMT-0800 (PST): Letter Guessed : d
+Tue Jan 30 2018 23:31:36 GMT-0800 (PST): Letter Guessed : d
+Tue Jan 30 2018 23:31:36 GMT-0800 (PST): Letter Guessed : d
+Tue Jan 30 2018 23:31:37 GMT-0800 (PST): Letter Guessed : d
+Tue Jan 30 2018 23:32:38 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 23:32:38 GMT-0800 (PST): Random Word is : finding nemo
+Tue Jan 30 2018 23:32:40 GMT-0800 (PST): Letter Guessed : a
+Tue Jan 30 2018 23:32:43 GMT-0800 (PST): Letter Guessed : s
+Tue Jan 30 2018 23:32:45 GMT-0800 (PST): Letter Guessed : f
+Tue Jan 30 2018 23:35:01 GMT-0800 (PST): Category choosen by user : movies
+Tue Jan 30 2018 23:35:01 GMT-0800 (PST): Random Word is : home aloneCategory choosen by user : moviesRandom Word is : polar expressCategory choosen by user : movies
+Random Word is : finding nemo
+Letter Guessed : a
+Letter Guessed : s
+Letter Guessed : d
+Letter Guessed : f
+Category choosen by user : movies
+Random Word is : zootopia
+Letter Guessed : s
+Letter Guessed : d
+Letter Guessed : a
+Category choosen by user : movies
+Random Word is : zootopia
+Letter Guessed : s
+Letter Guessed : a
+Letter Guessed : z
+Category choosen by user : movies
+Random Word is : zootopia
+Letter Guessed : o
+Letter Guessed : z
+Category choosen by user : movies
+Random Word is : harry Potter
+Letter Guessed : a
+_,a,_,_,_, ,_,_,_,_,_,_
+Letter Guessed : r
+_,_,r,r,_, ,_,_,_,_,_,r
+Category choosen by user : movies
+Random Word is : harry Potter
+Letter Guessed : s
+Letter Guessed : d
+Category choosen by user : movies
+Random Word is : harry Potter
+Letter Guessed : o
+,,,,, ,,o
+Category choosen by user : movies
+Random Word is : zootopia
+Letter Guessed : o
+o
+Category choosen by user : movies
+Random Word is : zootopia
+Letter Guessed : a
+a
+Category choosen by user : movies
+Random Word is : polar express
+Letter Guessed : a
+_,_,_,a,_, ,_,_,_,_,_,_,_
+Letter Guessed : s
+_,_,_,a,_, ,_,_,_,_,_,s,s
+Letter Guessed : x
+_,_,_,a,_, ,_,x,_,_,_,s,s
+Letter Guessed : p
+p,_,_,a,_, ,_,x,p,_,_,s,s
+Letter Guessed : o
+p,o,_,a,_, ,_,x,p,_,_,s,s
+Letter Guessed : l
+p,o,l,a,_, ,_,x,p,_,_,s,s
+Letter Guessed : r
+p,o,l,a,r, ,_,x,p,r,_,s,s
+Letter Guessed : e
+p,o,l,a,r, ,e,x,p,r,e,s,s
+Category choosen by user : movies
+Random Word is : home alone
+Letter Guessed : a
+_,_,_,_, ,a,_,_,_,_
+Letter Guessed : o
+_,o,_,_, ,a,_,o,_,_
+Letter Guessed : e
+_,o,_,e, ,a,_,o,_,e
+Letter Guessed : h
+h,o,_,e, ,a,_,o,_,e
+Letter Guessed : m
+h,o,m,e, ,a,_,o,_,e
+Letter Guessed : l
+h,o,m,e, ,a,l,o,_,e
+Letter Guessed : n
+h,o,m,e, ,a,l,o,n,e
+Category choosen by user : animals
+Random Word is : rakoon
+Letter Guessed : o
+_,_,_,o,o,_
+Letter Guessed : r
+r,_,_,o,o,_
+Letter Guessed : a
+r,a,_,o,o,_
+Letter Guessed : n
+r,a,_,o,o,n
+Letter Guessed : k
+r,a,k,o,o,n
+Category choosen by user : movies
+Random Word is : zootopia
+Letter Guessed : a
+_,_,_,_,_,_,_,a
+Letter Guessed : a
+_,_,_,_,_,_,_,a
+Category choosen by user : movies
+Random Word is : zootopia
+Letter Guessed : z
+z,_,_,_,_,_,_,_
+Letter Guessed : o
+z,o,o,_,o,_,_,_
+Letter Guessed : z
+z,o,o,_,o,_,_,_
+Letter Guessed : z
+z,o,o,_,o,_,_,_
+Letter Guessed : z
+z,o,o,_,o,_,_,_
+Letter Guessed : a
+z,o,o,_,o,_,_,a
+Letter Guessed : a
+z,o,o,_,o,_,_,a
+Letter Guessed : a
+z,o,o,_,o,_,_,a
+Letter Guessed : a
+z,o,o,_,o,_,_,a
+Letter Guessed : a
+z,o,o,_,o,_,_,a
+Letter Guessed : a
+z,o,o,_,o,_,_,a
+Letter Guessed : a
+z,o,o,_,o,_,_,a
+Letter Guessed : a
+z,o,o,_,o,_,_,a
+Letter Guessed : a
+z,o,o,_,o,_,_,a
+Letter Guessed : a
+z,o,o,_,o,_,_,a
+Letter Guessed : a
+z,o,o,_,o,_,_,a
+Letter Guessed : a
+z,o,o,_,o,_,_,a
+Letter Guessed : a
+z,o,o,_,o,_,_,a
+Letter Guessed : a
+z,o,o,_,o,_,_,a
+Letter Guessed : a
+z,o,o,_,o,_,_,a
+Letter Guessed : a
+z,o,o,_,o,_,_,a
+Letter Guessed : a
+z,o,o,_,o,_,_,a
+Letter Guessed : a
+z,o,o,_,o,_,_,a
+Letter Guessed : a
+z,o,o,_,o,_,_,a
+Letter Guessed : a
+z,o,o,_,o,_,_,a
+Letter Guessed : a
+z,o,o,_,o,_,_,a
+Letter Guessed : a
+z,o,o,_,o,_,_,a
+Letter Guessed : a
+z,o,o,_,o,_,_,a
+Letter Guessed : a
+z,o,o,_,o,_,_,a
+Letter Guessed : a
+z,o,o,_,o,_,_,a
+Category choosen by user : movies
+Random Word is : finding nemo
+Letter Guessed : f
+f,_,_,_,_,_,_, ,_,_,_,_
+Letter Guessed : i
+f,i,_,_,i,_,_, ,_,_,_,_
+Letter Guessed : f
+f,i,_,_,i,_,_, ,_,_,_,_
+Category choosen by user : movies
+Random Word is : harry Potter
+Letter Guessed : r
+_,_,r,r,_, ,_,_,_,_,_,r
+Letter Guessed : h
+h,_,r,r,_, ,_,_,_,_,_,r
+Letter Guessed : h
+Category choosen by user : movies
+Random Word is : harry Potter
+Letter Guessed : h
+h,_,_,_,_, ,_,_,_,_,_,_
+Letter Guessed : h
+h,a,_,_,_, ,_,_,_,_,_,_
+Letter Guessed : a
+Letter Guessed : r
+h,a,r,r,_, ,_,_,_,_,_,r
+Letter Guessed : p
+Letter Guessed : p
+Letter Guessed : p
+Letter Guessed : o
+h,a,r,r,_, ,_,o,_,_,_,r
+Letter Guessed : t
+h,a,r,r,_, ,_,o,t,t,_,r
+h,a,r,r,y, ,_,o,t,t,_,r
+Letter Guessed : y
+h,a,r,r,y, ,_,o,t,t,e,r
+Letter Guessed : e
+Letter Guessed : p
+Category choosen by user : movies
+Random Word is : harry Potter
+Letter Guessed : p
+Category choosen by user : animals
+Random Word is : rakoon
+Letter Guessed : n
+_,_,_,_,_,n
+Letter Guessed : o
+_,_,_,o,o,n
+Letter Guessed : r
+r,_,_,o,o,n
+Letter Guessed : r
+Letter Guessed : o
+Letter Guessed : l
+Letter Guessed : p
+Letter Guessed : m
+Letter Guessed : 4
+Letter Guessed : u
+Letter Guessed : o
+Letter Guessed : r
+Letter Guessed : a
+Category choosen by user : animals
+Random Word is : dinosaur
+Letter Guessed : d
+d,_,_,_,_,_,_,_
+d,_,_,_,_,_,_,r
+Letter Guessed : r
+Letter Guessed : i
+d,i,_,_,_,_,_,r
+d,i,_,o,_,_,_,r
+Letter Guessed : o
+Letter Guessed : s
+d,i,_,o,s,_,_,r
+Letter Guessed : a
+d,i,_,o,s,a,_,r
+Letter Guessed : z
+Letter Guessed : z
+Letter Guessed : w
+Letter Guessed : e
+Category choosen by user : movies
+Random Word is : finding nemo
+Letter Guessed : p
+Letter Guessed : f
+f,_,_,_,_,_,_, ,_,_,_,_
+f,_,_,d,_,_,_, ,_,_,_,_
+Letter Guessed : d
+Letter Guessed : o
+f,_,_,d,_,_,_, ,_,_,_,o
+Letter Guessed : i
+f,i,_,d,i,_,_, ,_,_,_,o
+Letter Guessed : g
+f,i,_,d,i,_,g, ,_,_,_,o
+Letter Guessed : n
+f,i,n,d,i,n,g, ,n,_,_,o
+f,i,n,d,i,n,g, ,n,e,_,o
+Letter Guessed : e
+Letter Guessed : l
+Letter Guessed : u
+Letter Guessed : a
+Letter Guessed : z
+Letter Guessed : m
+Category choosen by user : animals
+Random Word is : rakoon
+Letter Guessed : r
+r,_,_,_,_,_
+r,a,_,_,_,_
+Letter Guessed : a
+r,a,_,o,o,_
+Letter Guessed : o
+Letter Guessed : k
+r,a,k,o,o,_
+Letter Guessed : n
+r,a,k,o,o,n
+Letter Guessed : a
+Category choosen by user : animals
+Random Word is : leopard
+Letter Guessed : d
+_,_,_,_,_,_,d
+Letter Guessed : l
+l,_,_,_,_,_,d
+l,e,_,_,_,_,d
+Letter Guessed : e
+Letter Guessed : p
+l,e,_,p,_,_,d
+Letter Guessed : a
+l,e,_,p,a,_,d
+Letter Guessed : a
+Letter Guessed : z
+Letter Guessed : e
+Letter Guessed : o
+l,e,o,p,a,_,d
+Letter Guessed : r
+l,e,o,p,a,r,d
+Category choosen by user : movies
+Random Word is : zootopia
+Letter Guessed : a
+Letter Guessed : a
+Letter Guessed : z
+Letter Guessed : z
+Letter Guessed : o
+Letter Guessed : o
+Category choosen by user : animals
+Random Word is : rakoon
+Category choosen by user : animals
+Random Word is : mouse
+Letter Guessed : e
+_,_,_,_,e
+Letter Guessed : e
+Letter Guessed : e
+Letter Guessed : s
+_,_,_,s,e
+Letter Guessed : o
+_,o,_,s,e
+Letter Guessed : p
+Letter Guessed : l
+Letter Guessed : m
+m,o,_,s,e
+Letter Guessed : i
+Letter Guessed : u
+m,o,u,s,e
+Category choosen by user : movies
+Random Word is : finding nemo
+Letter Guessed : l
+Letter Guessed : f
+f,_,_,_,_,_,_, ,_,_,_,_
+Letter Guessed : f
+Letter Guessed : i
+f,i,_,_,i,_,_, ,_,_,_,_
+Letter Guessed : i
+Letter Guessed : n
+f,i,n,_,i,n,_, ,n,_,_,_
+Letter Guessed : n
+Category choosen by user : movies
+Random Word is : polar express
+Letter Guessed : s
+_,_,_,_,_, ,_,_,_,_,_,s,s
+Letter Guessed : o
+_,o,_,_,_, ,_,_,_,_,_,s,s
+Letter Guessed : i
+Letter Guessed : b
+Letter Guessed : 7
+Letter Guessed : i
+Letter Guessed : p
+p,o,_,_,_, ,_,_,p,_,_,s,s
+p,o,l,_,_, ,_,_,p,_,_,s,s
+Letter Guessed : l
+Letter Guessed : a
+p,o,l,a,_, ,_,_,p,_,_,s,s
+Letter Guessed : r
+p,o,l,a,r, ,_,_,p,r,_,s,s
+Letter Guessed : e
+p,o,l,a,r, ,e,_,p,r,e,s,s
+Letter Guessed : x
+p,o,l,a,r, ,e,x,p,r,e,s,s
+Category choosen by user : animals
+Random Word is : squirrel
+Category choosen by user : movies
+Random Word is : home alone
+Letter Guessed : h
+h,_,_,_, ,_,_,_,_,_
+Letter Guessed : o
+h,o,_,_, ,_,_,o,_,_
+Letter Guessed : m
+h,o,m,_, ,_,_,o,_,_
+Letter Guessed : e
+h,o,m,e, ,_,_,o,_,e
+Letter Guessed : a
+h,o,m,e, ,a,_,o,_,e
+Letter Guessed : l
+h,o,m,e, ,a,l,o,_,e
+h,o,m,e, ,a,l,o,n,e
+Letter Guessed : n
